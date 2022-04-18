@@ -1,2 +1,2 @@
-target language word,gender,target language audio,reading of target language word,source langauge word,target language sentence,target language sentence audio, source language sentence,image
-fleur,(une),[sound:fleur.mp3],,flower,Je voudrais une <u>fleur</u>,[sound:fleur-sentence.mp3],I would like a flower,<img src='fleur.jpg'>
+target language word,gender,reading of target language word,source langauge word,target language audio,target language sentence,source language sentence,target language sentence audio,image
+fleur,(une),,flower,[sound:fleur.mp3],Je voudrais une <u>fleur</u>,I would like a flower,[sound:fleur-sentence.mp3],<img src='fleur.jpg'>
