@@ -1,8 +1,8 @@
 # Front
 ```
-{{Target Language Word}}
-<br>
 {{Gender}}
+<br>
+{{Target Language Word}}
 ```
 # Back
 ```
