@@ -1,9 +1,5 @@
 # Template-Language-Anki-Deck
 
-# To Do
-- Add id field
-- Update Note Type Code
-
 # Note Type Code
 ## Front
 ```
