@@ -36,20 +36,24 @@
 ## Card 3: Target Language Sentence -> Source Language Sentence
 ### Front
 ```
-to do
+{{Target Language Sentence}}{{Target Language Sentence Audio}}
 ```
 ### Back
 ```
-to do
+{{FrontSide}}
+<hr id=answer>
+{{Source Language Sentence}}
 ```
-## Card 4: Target Language Sentence -> Source Language Sentence
+## Card 4: Source Language Sentence -> Target Language Sentence
 ### Front
 ```
-to do
+{{Source Language Sentence}}
 ```
 ### Back
 ```
-to do
+{{FrontSide}}
+<hr id=answer>
+{{Target Language Sentence}}{{Target Language Sentence Audio}}
 ```
 ## Styling
 ```
