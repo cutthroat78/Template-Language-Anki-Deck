@@ -4,31 +4,34 @@
 ## Card 1: Target Language -> Source Language
 ### Front
 ```
-{{Gender}}
-<br>
-{{Target Language}}
+<div style='font-size: 15px;'>{{Gender}}</div>
+{{Target Language}}{{Target Language Audio}}
 ```
 ### Back
 ```
 {{FrontSide}}
 <hr id=answer>
-{{Target Language Audio}}
+{{Source Language}}
 <br>
-{{Source Langauge}}
-<br>
-{{Target Language Sentence}}{{Target Language Sentence Audio}}
-<br>
-<p>{{Source Language Sentence}}</p>
+<i>{{Target Language Sentence}}{{Target Language Sentence Audio}}</i>
+<div style='font-size: 15px;'>{{Source Language Sentence}}</div>
 {{Image}}
 ```
 ## Card 2: Source Language -> Target Language
 ### Front
 ```
-to do
+{{Source Language}}
 ```
 ### Back
 ```
-to do
+{{FrontSide}}
+<hr id=answer>
+<div style='font-size: 15px;'>{{Gender}}</div>
+{{Target Language}}{{Target Language Audio}}
+<br>
+<i>{{Target Language Sentence}}{{Target Language Sentence Audio}}</i>
+<div style='font-size: 15px;'>{{Source Language Sentence}}</div>
+{{Image}}
 ```
 ## Card 3: Target Language Sentence -> Source Language Sentence
 ### Front
