@@ -5,7 +5,7 @@
 ```
 {{Gender}}
 <br>
-{{Target Language Word}}
+{{Target Language}}
 ```
 ## Back
 ```
@@ -13,7 +13,7 @@
 <hr id=answer>
 {{Target Language Audio}}
 <br>
-{{Source Langauge Word}}
+{{Source Langauge}}
 <br>
 {{Target Language Sentence}}{{Target Language Sentence Audio}}
 <br>
