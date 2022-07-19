@@ -11,7 +11,7 @@
 ```
 {{FrontSide}}
 <hr id=answer>
-{{Reading}}{{Target Language Audio}}
+{{Target Language Audio}}
 <br>
 {{Source Langauge Word}}
 <br>
