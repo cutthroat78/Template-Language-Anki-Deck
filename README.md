@@ -1,13 +1,14 @@
 # Template-Language-Anki-Deck
 
 # Note Type Code
-## Front
+## Card 1: Target Language -> Source Language
+### Front
 ```
 {{Gender}}
 <br>
 {{Target Language}}
 ```
-## Back
+### Back
 ```
 {{FrontSide}}
 <hr id=answer>
@@ -20,6 +21,33 @@
 <p>{{Source Language Sentence}}</p>
 {{Image}}
 ```
+## Card 2: Source Language -> Target Language
+### Front
+```
+to do
+```
+### Back
+```
+to do
+```
+## Card 3: Target Language Sentence -> Source Language Sentence
+### Front
+```
+to do
+```
+### Back
+```
+to do
+```
+## Card 4: Target Language Sentence -> Source Language Sentence
+### Front
+```
+to do
+```
+### Back
+```
+to do
+```
 ## Styling
 ```
 .card {
@@ -28,9 +56,5 @@
   text-align: center;
   color: black;
   background-color: white;
-}
-
-p {
-  font-size: 15px;
 }
 ```
